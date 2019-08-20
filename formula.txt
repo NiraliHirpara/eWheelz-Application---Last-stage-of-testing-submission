@@ -1,0 +1,11 @@
+Test Progress: TP = tc/t:
+		Number of test cases executed / 
+		total number of test cases
+
+Defect Trend Analysis: Number of known defects / 
+		       Number of test procedures around
+
+Automation Index: Number of test cases automatable / 
+		  Total number of test cases
+
+Critical Defects % ..?
